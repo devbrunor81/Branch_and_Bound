@@ -102,7 +102,7 @@ def Branch_and_Bound(num_variaveis, num_restricoes, coef_func_objetivo, coef_res
 
         models.pop(0)
     
-    print(zp)
+    print("Valor da Solução Ótima inteira (Zp):", zp, "\n")
 
 #--------------------------------------------------------------------------------------------------------------------
 
